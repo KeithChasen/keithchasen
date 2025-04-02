@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### My skills
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,js,react,tailwind,redux,prisma,express,nodejs,html,css,github,git,mongodb,mysql,bootstrap,php,docker)](https://skillicons.dev)
+
+
+### Publications
+<div>
+  <a href="https://medium.com/@keithchasen">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+</div>
 <!--
 **KeithChasen/keithchasen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
