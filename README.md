@@ -3,7 +3,31 @@
 My name is Kostya and I'm a Full Stack Web Engineer with 10 years of experience
 
 ### My skills
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,js,react,tailwind,redux,prisma,express,nodejs,html,css,github,git,mongodb,mysql,bootstrap,php,docker)](https://skillicons.dev)
+<table><tr><td valign="top" width="25%"> 
+      
+#### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,php&perline=4" />
+</div>
+    </td><td valign="top" width="25%">
+      
+#### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,html,css&perline=4" />
+</div>
+    </td><td valign="top" width="25%">
+      
+#### Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,express,nodejs,mongodb,postgres,mysql&perline=4" />
+</div>
+    </td><td valign="top" width="25%">
+      
+#### Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,docker,figma,npm&perline=4" />
+</div>
+    </td></tr></table>
 
 
 ### Publications
