@@ -40,7 +40,7 @@ Sometime when I do something interesting during my working hours I write article
 
 ### Are you looking for a new software engineer to join your team?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1PXQfEV3sRdLerO4uTMdL8cmlI40AQAf2/view?usp=drive_link" download>Download my resume</a>
+> <a href="https://docs.google.com/document/d/1VxMx8Gk_GYxAObnaqFI5Dp4IUZC5d0uvDrKHPGT9XXs/edit?usp=drive_link" download>Download my resume</a>
 
 
 
