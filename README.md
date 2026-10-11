@@ -19,13 +19,13 @@ My name is Kostya and I'm a Full Stack Web Engineer with 10 years of experience
       
 #### Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,express,nodejs,mongodb,postgres,mysql,apollo&perline=4" />
+  <img src="https://skillicons.dev/icons?i=prisma,express,nodejs,mongodb,postgres,mysql,graphql,apollo,laravel,rabbitmq&perline=4" />
 </div>
     </td><td valign="top" width="25%">
       
 #### Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,figma,npm&perline=4" />
+  <img src="https://skillicons.dev/icons?i=github,git,docker,figma,npm,postman,vercel&perline=4" />
 </div>
     </td></tr></table>
 
